@@ -1,3 +1,8 @@
+# i do not htink the algoritmh is the best, but is able to match the battle code 
+# it is able to win against gemin bot
+#it can bet the chatgpt bot if it starts
+#it is not made to play against it, but can be implemented
+
 import random
 import time
 
